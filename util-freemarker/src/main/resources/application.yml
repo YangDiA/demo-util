@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: util-freemarker
+  profiles:
+    active: s1
+
+server:
+  port: 8900
+
+
+
+
+
